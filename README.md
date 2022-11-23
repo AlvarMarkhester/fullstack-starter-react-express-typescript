@@ -5,5 +5,4 @@ Eslinting + Prettier throughout the stack with typescript inc. my preffered rule
 Including a sample folder structure both on frontend and backend<br/>
 ViteJS + React frontend<br/>
 Express + Passport + Session + sample CRUD user<br/>
-![image](https://user-images.githubusercontent.com/45149278/203637928-5028b512-3961-4485-af61-5346266f74bc.png)
-
+https://user-images.githubusercontent.com/45149278/203637968-24d93542-83db-4bfb-a60f-540dcbfc2d22.png
